@@ -1,0 +1,25 @@
+Artificial Intelligence with VBS
+------------------------------------------------------------------------------------------
+**Its VBS based mini project**
+------------------------------------------------------------------------------------------
+The initial login password is 12345
+If You want to login as admin and you want ai call you boss than enter name as 'admin123'
+------------------------------------------------------------------------------------------
+What This AI can do:
+you can say 'Hello'
+you can ask 'how are you'
+you can ask 'who creates you'
+you can ask 'how you created'
+you can ask 'what is my name'
+you can ask about 'time' and 'what is time'
+"what can you do"
+"who is my gf" and "forget my gf name"
+type "add" , "sub" , "mlt" and "div" for addition , subtraction , multiplication and divition
+"what is your name"
+"who are you"
+"my teacher" and "forget my teacher"
+"haha"
+"i love you"
+"stupid"
+
+Devloper:- **Bharat Rawat**
